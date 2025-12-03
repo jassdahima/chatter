@@ -1,5 +1,3 @@
-# chatter
-
 # Chatter - A Real-Time Android Chat Application
 
 Chatter is a modern, real-time chat application for Android, built entirely with Kotlin and Jetpack Compose. This project demonstrates a clean, scalable architecture using modern Android development practices, including Firebase for backend services and Koin for dependency injection.
