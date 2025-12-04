@@ -15,7 +15,7 @@ Chatter is a modern, real-time chat application for Android, built entirely with
 
 ## 📸 Screenshots
 
-![Sign Up Screen](screenshots/signup-screen.png)
+![Sign Up Screen](https://github.com/jassdahima/chatter/blob/main/screenshots/chatter1.png)
 
 
 ## 🛠️ Tech Stack & Architecture
