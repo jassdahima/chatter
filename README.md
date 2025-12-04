@@ -14,10 +14,8 @@ Chatter is a modern, real-time chat application for Android, built entirely with
 - **Dependency Injection:** A clean and maintainable codebase structured with Koin for dependency injection.
 
 ## 📸 Screenshots
-<img src="https://github.com/jassdahima/chatter/blob/main/screenshots/chatter1.png" width="200">
-<img src="https://github.com/jassdahima/chatter/blob/main/screenshots/chatter2.png" width="200">
-<img src="https://github.com/jassdahima/chatter/blob/main/screenshots/chatterchatpage.png" width="200">
-<img src="https://github.com/jassdahima/chatter/blob/main/screenshots/chatterhomepage.png" width="200">
+<img src="https://github.com/jassdahima/chatter/blob/main/screenshots/chatter1.png" width="250"><img src="https://github.com/jassdahima/chatter/blob/main/screenshots/chatter2.png" width="250">
+<img src="https://github.com/jassdahima/chatter/blob/main/screenshots/chatterchatpage.png" width="250"><img src="https://github.com/jassdahima/chatter/blob/main/screenshots/chatterhomepage.png" width="250">
 
 
     
